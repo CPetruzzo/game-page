@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "ui-placeholder-demo/TutorialBody.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 720,
+        "h": 730
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 10,
+        "w": 720,
+        "h": 730
+      },
+      "sourceSize": {
+        "w": 740,
+        "h": 740
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/bgBar.png": {
+      "frame": {
+        "x": 726,
+        "y": 2,
+        "w": 620,
+        "h": 40
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 15,
+        "w": 620,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 660,
+        "h": 70
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/bar.png": {
+      "frame": {
+        "x": 2,
+        "y": 736,
+        "w": 600,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 600,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/TutorialButton.png": {
+      "frame": {
+        "x": 2,
+        "y": 760,
+        "w": 490,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 20,
+        "w": 490,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 540,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/btnPlay.png": {
+      "frame": {
+        "x": 606,
+        "y": 736,
+        "w": 150,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 15,
+        "w": 150,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 180,
+        "h": 180
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/markBG.png": {
+      "frame": {
+        "x": 770,
+        "y": 2,
+        "w": 140,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/9slice.png": {
+      "frame": {
+        "x": 726,
+        "y": 626,
+        "w": 100,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 100
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/mark.png": {
+      "frame": {
+        "x": 830,
+        "y": 146,
+        "w": 78,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 38,
+        "w": 78,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/soundOff.png": {
+      "frame": {
+        "x": 770,
+        "y": 146,
+        "w": 52,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 14,
+        "w": 52,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/soundOn.png": {
+      "frame": {
+        "x": 770,
+        "y": 202,
+        "w": 52,
+        "h": 52
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 14,
+        "w": 52,
+        "h": 52
+      },
+      "sourceSize": {
+        "w": 80,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/toggleBackground.png": {
+      "frame": {
+        "x": 496,
+        "y": 890,
+        "w": 46,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 46,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ui-placeholder-demo/toggleKnob.png": {
+      "frame": {
+        "x": 546,
+        "y": 890,
+        "w": 18,
+        "h": 18
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 18
+      },
+      "sourceSize": {
+        "w": 18,
+        "h": 18
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.4.0",
+    "image": "ui-placeholder-demo.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 1
+  }
+}

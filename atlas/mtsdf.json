@@ -1,0 +1,87 @@
+{
+  "frames": {
+    "mtsdf/insta.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mtsdf/spot.png": {
+      "frame": {
+        "x": 2,
+        "y": 70,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mtsdf/whats.png": {
+      "frame": {
+        "x": 2,
+        "y": 138,
+        "w": 64,
+        "h": 64
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 64
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.4.0",
+    "image": "mtsdf.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 128,
+      "h": 256
+    },
+    "scale": 1
+  }
+}
