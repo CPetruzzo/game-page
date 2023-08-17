@@ -1,1 +1,1 @@
-(self.webpackChunkbunnybox=self.webpackChunkbunnybox||[]).push([[921,289],{100:()=>{},69:()=>{}}]);
+(self.webpackChunk_3DGame=self.webpackChunk_3DGame||[]).push([[921,289],{100:()=>{},69:()=>{}}]);
